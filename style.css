@@ -1,0 +1,36 @@
+.fundo{
+    width: 400px;
+    height: 200px;
+    background-image: url(./imagens/backgorund.png);
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 120%;
+    border: 8px solid black;
+    border-left-width: 30px;
+    border-bottom-width: 40px;
+    border-right-width: 20px;
+    
+    
+   
+    
+}
+.l1{
+    list-style-image:url(./imagens/Insta.png) ; 
+}
+.l2{
+    list-style-image:url(./imagens/Twitter.png) ;  
+}
+.l3{
+    list-style-image:url(./imagens/Youtube.png) ;   
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+p{
+    padding-left: 8px;
+    padding-top: 
+}
